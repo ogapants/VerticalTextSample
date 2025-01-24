@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.ogapants.verticaltextsample"
-        minSdkPreview = "Baklava"
+        minSdk = 34
         targetSdkPreview = "Baklava"
         versionCode = 1
         versionName = "1.0"
